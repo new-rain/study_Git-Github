@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("版本2");
         System.out.println("版本3");
         System.out.println("版本4");
+        System.out.println("版本5-2");
     }
 }
